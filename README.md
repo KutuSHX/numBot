@@ -1,5 +1,12 @@
 To init:
 
-'''bash
+```bash
+# bun
 bun init
-'''
+
+# yarn
+yarn init
+
+# npm
+npm init
+```
