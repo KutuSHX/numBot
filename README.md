@@ -1,5 +1,11 @@
 # app
 
+To init:
+
+```bash
+bun init
+```
+
 To install dependencies:
 
 ```bash
